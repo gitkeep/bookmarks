@@ -7,5 +7,5 @@ BOOKMARKS_FILE_DEST=README.org
 
 cp "$BOOKMARKS_FILE_SRC" "$BOOKMARKS_FILE_DEST"
 git add --all
-git commit --amend -m "Sync $(date +\"%Y-%m-%d\")"
-git push --force
+git commit -m "Sync $(date +\"%Y-%m-%d\")"
+git push
