@@ -2,8 +2,9 @@
 
 This is more of an interesting (subjectively) links feed than a list of bookmarks.
 
+Use the [[https://raw.githubusercontent.com/gitkeep/bookmarks/master/feed.xml][RSS feed]] to subscribe to this list.
+
 How it works:
-- Each month, I create a new heading for the current month.
 - Every time I find something interesting, I use [[https://newsboat.org/releases/2.26/docs/newsboat.html#_bookmarking][newsboat's bookmark feature]] to append it here.
 - Every day, at noon, a [[cron.sh][cron job]] commits and pushes any changes.
 

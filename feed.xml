@@ -1,0 +1,1980 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+ <title>gitkeep/bookmarks</title>
+ <link>https://github.com/gitkeep/bookmarks</link>
+ <atom:link href="https://raw.githubusercontent.com/gitkeep/bookmarks/master/feed.xml" rel="self" type="application/rss+xml" />
+ <description></description>
+ <language>en-us</language>
+<item>
+ <title>Show HN: SHA-256 explained step-by-step visually</title>
+ <link>https://sha256algorithm.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Improve security and privacy by updating HTTP Cache</title>
+ <link>https://web.dev/http-cache-security/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Building a theme switch component</title>
+ <link>https://web.dev/building-a-theme-switch-component/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Deep-copying in JavaScript using structuredClone</title>
+ <link>https://web.dev/structured-clone/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Building a toast component</title>
+ <link>https://web.dev/building-a-toast-component/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Harden your NixOS workstation</title>
+ <link>https://dataswamp.org/~solene/2022-01-13-nixos-hardened.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>My NixOS configuration</title>
+ <link>https://dataswamp.org/~solene/2021-12-21-my-nixos.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Beginnings of Zero-Knowledge</title>
+ <link>http://blog.computationalcomplexity.org/2022/02/the-beginnings-of-zero-knowledge.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Liskov Substitution Principle as a profunctor</title>
+ <link>https://blog.ploeh.dk/2021/12/06/the-liskov-substitution-principle-as-a-profunctor/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Poestmortem</title>
+ <link>https://latkin.org/blog/2018/08/22/poestmortem/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Structural Lessons in Engineering Management</title>
+ <link>https://www.elidedbranches.com/2022/01/structural-lessons-in-engineering.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>How New Managers Fail Individual Contributors</title>
+ <link>https://www.elidedbranches.com/2021/10/how-new-managers-fail-individual.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Are you out of alignment?</title>
+ <link>https://www.elidedbranches.com/2018/03/are-you-out-of-alignment.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Introvert's Paradox</title>
+ <link>https://questionablecontent.net/view.php?comic=4696</link>
+ <description></description>
+ </item>
+<item>
+ <title>Gut microbe linked to depression in large health study</title>
+ <link>https://www.science.org/content/article/gut-microbe-linked-depression-large-health-study</link>
+ <description></description>
+ </item>
+<item>
+ <title>Send your email right to the other person's spam</title>
+ <link>https://straight2spam.xyz/</link>
+ <description></description>
+ </item>
+<item>
+ <title>First images of cerebrospinal fluid in the brain during sleep (2019)</title>
+ <link>https://www.bu.edu/articles/2019/cerebrospinal-fluid-washing-in-brain-during-sleep/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Cassowary – Run Windows Apps on Linux using a VM as if they were native apps</title>
+ <link>https://github.com/casualsnek/cassowary</link>
+ <description></description>
+ </item>
+<item>
+ <title>Exposing a web service with Cloudflare Tunnel</title>
+ <link>https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Aspect Ratio is Great</title>
+ <link>https://css-irl.info/aspect-ratio-is-great/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Sci-Hub statistics and database</title>
+ <link>https://sci-hub.ru/database</link>
+ <description></description>
+ </item>
+<item>
+ <title>Server-Sent Events: an alternative to WebSockets</title>
+ <link>https://germano.dev/sse-websockets/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Growing a mango tree from seed – one year time lapse</title>
+ <link>https://www.youtube.com/watch?v=jh_ukt8g53c</link>
+ <description></description>
+ </item>
+<item>
+ <title>Discord is a black hole for information</title>
+ <link>https://knockout.chat/thread/33251/1</link>
+ <description></description>
+ </item>
+<item>
+ <title>CAD files for the external shell (surface topology) of Steam Deck</title>
+ <link>https://gitlab.steamos.cloud/SteamDeck/hardware</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Factorio Mindset</title>
+ <link>https://www.thediff.co/p/the-factorio-mindset</link>
+ <description></description>
+ </item>
+<item>
+ <title>Feynman on group decision-making at Los Alamos (1985)</title>
+ <link>https://cs.au.dk/~danvy/lafb.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Case against OOP is understated, not overstated (2020)</title>
+ <link>https://boxbase.org/entries/2020/aug/3/case-against-oop/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Use of Google Analytics declared illegal by French data protection authority</title>
+ <link>https://www.cnil.fr/en/use-google-analytics-and-data-transfers-united-states-cnil-orders-website-manageroperator-comply</link>
+ <description></description>
+ </item>
+<item>
+ <title>Web hacking techniques of 2021</title>
+ <link>https://portswigger.net/research/top-10-web-hacking-techniques-of-2021</link>
+ <description></description>
+ </item>
+<item>
+ <title>SSH into private machines from anywhere using Cloudflare Tunnel</title>
+ <link>https://orth.uk/ssh-over-cloudflare/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Spinal implants allow paralysed people to walk, swim and cycle again</title>
+ <link>https://www.economist.com/science-and-technology/spinal-implants-allow-paralysed-people-to-walk-swim-and-cycle-again/21807596</link>
+ <description></description>
+ </item>
+<item>
+ <title>I have never read a business plan or balance sheet</title>
+ <link>https://twitter.com/paulg/status/1492682253612113921</link>
+ <description></description>
+ </item>
+<item>
+ <title>What we lost</title>
+ <link>https://randsinrepose.com/archives/what-we-lost/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Brainwashing is sorcery</title>
+ <link>https://www.overcomingbias.com/2022/02/brainwashing-is-sorcery.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>If you’re so smart, why aren’t you happy?</title>
+ <link>https://nav.al/smart</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Kobayashi Maru of comparing dates with times</title>
+ <link>https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times</link>
+ <description></description>
+ </item>
+<item>
+ <title>Sci-Hub statistics and database</title>
+ <link>https://sci-hub.ru/database</link>
+ <description></description>
+ </item>
+<item>
+ <title>What Fortran does better than C-like languages</title>
+ <link>https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-like-languages/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A 1970s boardgame takes about 1,500 hours to complete</title>
+ <link>https://www.openculture.com/2022/02/the-fiendishly-complicated-board-game-that-takes-1500-hours-to-play-discover-the-campaign-for-north-africa.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>My best estimate is gas stoves decrease life expectancy by 53 days on average</title>
+ <link>https://dynomight.net/stoves/</link>
+ <description></description>
+ </item>
+<item>
+ <title>CORS is not meant to secure an API endpoint</title>
+ <link>https://nikofischer.com/cors-does-not-secure-api-endpoints</link>
+ <description></description>
+ </item>
+<item>
+ <title>Major breakthrough on nuclear fusion energy</title>
+ <link>https://www.bbc.co.uk/news/science-environment-60312633</link>
+ <description></description>
+ </item>
+<item>
+ <title>Thousands of Mazdas in the Seattle area are stuck on a single FM radio station</title>
+ <link>https://www.kuow.org/stories/we-didn-t-mean-to-ruin-your-mazda-s-stereo</link>
+ <description></description>
+ </item>
+<item>
+ <title>Starlink lost 40 satellites to a geomagnetic storm</title>
+ <link>https://www.spacex.com/updates/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A Lonely Universe</title>
+ <link>https://inference-review.com/article/a-lonely-universe</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Kelly criterion: How to size bets (2019)</title>
+ <link>https://explore.paulbutler.org/bet/</link>
+ <description></description>
+ </item>
+<item>
+ <title>PDEs you should know</title>
+ <link>https://www.lucaspauker.com/pdes</link>
+ <description></description>
+ </item>
+<item>
+ <title>How UTF-8 Works</title>
+ <link>https://sethmlarson.dev/blog/utf-8</link>
+ <description></description>
+ </item>
+<item>
+ <title>Are Today’s Portraitists Better Than the Old Masters?</title>
+ <link>https://evolveartist.com/blog/todays-portraitists-vs-old-masters/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Managing People</title>
+ <link>https://klinger.io/posts/managing-people-%F0%9F%A4%AF</link>
+ <description></description>
+ </item>
+<item>
+ <title>How the Boeing 737 Max disaster looks to a software developer (2019)</title>
+ <link>https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer</link>
+ <description></description>
+ </item>
+<item>
+ <title>No-JavaScript Fingerprinting</title>
+ <link>https://noscriptfingerprint.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>What's in a good error message?</title>
+ <link>https://www.morling.dev/blog/whats-in-a-good-error-message/</link>
+ <description></description>
+ </item>
+<item>
+ <title>On Being Broke</title>
+ <link>https://thomasjbevan.substack.com/p/on-being-broke</link>
+ <description></description>
+ </item>
+<item>
+ <title>What does it mean to listen on a port?</title>
+ <link>https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/</link>
+ <description></description>
+ </item>
+<item>
+ <title>White hat hacker awarded $2M for fixing ETH-creation bug</title>
+ <link>https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Arduboy</title>
+ <link>https://www.arduboy.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Ask HN: Best books on managing software complexity?</title>
+ <link>https://news.ycombinator.com/item?id=30228261</link>
+ <description></description>
+ </item>
+<item>
+ <title>Jo – a shell command to create JSON (2016)</title>
+ <link>https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Jo – a shell command to create JSON (2016)</title>
+ <link>https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/</link>
+ <description></description>
+ </item>
+<item>
+ <title>DNA has a 521-year half-life (2012)</title>
+ <link>https://www.nature.com/articles/nature.2012.11555?error=cookies_not_supported&amp;code=9e000ca7-03bd-4418-b13d-e483acf97062</link>
+ <description></description>
+ </item>
+<item>
+ <title>Protons are probably smaller than long thought</title>
+ <link>https://www.uni-bonn.de/en/news/020-2022</link>
+ <description></description>
+ </item>
+<item>
+ <title>What’s so hard about understanding consciousness?</title>
+ <link>https://nautil.us/whats-so-hard-about-understanding-consciousness-13877/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The simple system I’m using to stay in touch with hundreds of people</title>
+ <link>https://jakobgreenfeld.com/stay-in-touch</link>
+ <description></description>
+ </item>
+<item>
+ <title>Android 13 virtualization lets Pixel 6 run Windows 11, Linux distributions</title>
+ <link>https://www.cnx-software.com/2022/02/14/android-13-virtualization-lets-pixel-6-run-windows-11-linux-distributions/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Don%27t contribute anything relevant in web forums (2020)</title>
+ <link>https://karl-voit.at/2020/10/23/avoid-web-forums/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Consent, GDPR and Google Analytics</title>
+ <link>https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/</link>
+ <description></description>
+ </item>
+<item>
+ <title>What does it mean to listen on a port?</title>
+ <link>https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Kubernetes: The Documentary</title>
+ <link>https://www.youtube.com/watch?v=BE77h7dmoQU</link>
+ <description></description>
+ </item>
+<item>
+ <title>Social engineering scam that nearly cost me all of my ETH</title>
+ <link>https://twitter.com/thomasg_eth/status/1492663192404779013</link>
+ <description></description>
+ </item>
+<item>
+ <title>Reed-alert: five years later</title>
+ <link>https://dataswamp.org/~solene/2022-02-10-five-years-of-reed-alert.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Javascript Knowledge Map</title>
+ <link>https://learnjavascript.online/knowledge-map.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Text Rendering Hates You (2019)</title>
+ <link>https://gankra.github.io/blah/text-hates-you/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Concept of the Ruliad</title>
+ <link>https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Charting a Course for “Complexity”: Metamodeling, Ruliology and More</title>
+ <link>https://writings.stephenwolfram.com/2021/09/charting-a-course-for-complexity-metamodeling-ruliology-and-more/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Multicomputation with Numbers: The Case of Simple Multiway Systems</title>
+ <link>https://writings.stephenwolfram.com/2021/10/multicomputation-with-numbers-the-case-of-simple-multiway-systems/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Multicomputation: A Fourth Paradigm for Theoretical Science</title>
+ <link>https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/</link>
+ <description></description>
+ </item>
+<item>
+ <title>1920, 2020 and a $20,000 Prize: Announcing the S Combinator Challenge</title>
+ <link>https://writings.stephenwolfram.com/2021/06/1920-2020-and-a-20000-prize-announcing-the-s-combinator-challenge/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How Inevitable Is the Concept of Numbers?</title>
+ <link>https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Problem of Distributed Consensus</title>
+ <link>https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Map of my personal data infrastructure</title>
+ <link>https://beepb00p.xyz/myinfra.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Promnesia</title>
+ <link>https://beepb00p.xyz/promnesia.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Extending my personal infrastructure with a data source</title>
+ <link>https://beepb00p.xyz/myinfra-roam.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Human Programming Interface</title>
+ <link>https://beepb00p.xyz/hpi.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Building data liberation infrastructure</title>
+ <link>https://beepb00p.xyz/exports.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Against unnecessary databases</title>
+ <link>https://beepb00p.xyz/unnecessary-db.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>In search of a better job scheduler</title>
+ <link>https://beepb00p.xyz/scheduler.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>What data on myself I collect and why?</title>
+ <link>https://beepb00p.xyz/my-data.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to pin a nix-shell environment using niv</title>
+ <link>https://dataswamp.org/~solene/2022-01-12-nix-niv-shell.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Restrict users to a network interface on Linux</title>
+ <link>https://dataswamp.org/~solene/2021-12-20-linux-forbid-user-except-vpn.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>What if Internet stops? How to rebuild an offline federated infrastructure using OpenBSD</title>
+ <link>https://dataswamp.org/~solene/2021-10-21-huge-disaster-recovery-plan.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Building an adaptive favicon</title>
+ <link>https://web.dev/building-an-adaptive-favicon/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Drawing to canvas in Emscripten</title>
+ <link>https://web.dev/drawing-to-canvas-in-emscripten/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How Terra improved user engagement thanks to Dark Mode</title>
+ <link>https://web.dev/terra-dark-mode/</link>
+ <description></description>
+ </item>
+<item>
+ <title>SVGcode: a PWA to convert raster images to SVG vector graphics</title>
+ <link>https://web.dev/svgcode/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Building a Scrollable and Draggable Timeline with GSAP</title>
+ <link>https://css-irl.info/building-a-scrollable-and-draggable-timeline-with-gsap/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Favourite Web Development Courses</title>
+ <link>https://css-irl.info/favourite-web-development-courses/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Accessible Toggles</title>
+ <link>https://css-irl.info/accessible-toggles/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Respecting Users’ Motion Preferences</title>
+ <link>https://css-irl.info/respecting-users-motion-preferences/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Evaluating Clever CSS Solutions</title>
+ <link>https://css-irl.info/evaluating-clever-css-solutions/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Creating 3D Characters in Three.js</title>
+ <link>https://css-irl.info/creating-3d-characters-in-threejs/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Simplifying Form Styles With accent-color</title>
+ <link>https://css-irl.info/simplifying-form-styles-with-accent-color/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Simpler Block Spacing in WordPress with :is() and :where()</title>
+ <link>https://css-irl.info/simpler-block-styling-in-wordpress-with-is-and-where/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Learning in the Open</title>
+ <link>https://css-irl.info/learning-in-the-open/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Include diagrams in your Markdown files with Mermaid</title>
+ <link>https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/</link>
+ <description></description>
+ </item>
+<item>
+ <title>City Generator</title>
+ <link>https://watabou.github.io/city-generator/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Notes apps are where ideas go to die. And that’s good.</title>
+ <link>https://reproof.app/blog/notes-apps-help-us-forget</link>
+ <description></description>
+ </item>
+<item>
+ <title>Nuclear power may be the key to least-cost, zero-emission electricity systems</title>
+ <link>https://carnegiescience.edu/news/nuclear-power-may-be-key-least-cost-zero-emission-electricity-systems</link>
+ <description></description>
+ </item>
+<item>
+ <title>Why do we round corners?</title>
+ <link>https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to write untestable code (2008)</title>
+ <link>https://testing.googleblog.com/2008/07/how-to-write-3v1l-untestable-code.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>GPS</title>
+ <link>https://ciechanow.ski/gps/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Curves and Surfaces</title>
+ <link>https://ciechanow.ski/curves-and-surfaces/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Lorinda Cherry, author of dc, bc, eqn has died</title>
+ <link>https://ncwit.org/profile/lorinda-cherry/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Woman appears cured of HIV after umbilical-cord blood transplant</title>
+ <link>https://www.wsj.com/articles/woman-appears-cured-of-hiv-after-umbilical-cord-blood-transplant-11644945720</link>
+ <description></description>
+ </item>
+<item>
+ <title>How light is a neutrino? The answer is closer than ever</title>
+ <link>https://www.nature.com/articles/d41586-022-00430-x?error=cookies_not_supported&amp;code=cc4f19b4-e796-437f-9299-a8b9355135cb</link>
+ <description></description>
+ </item>
+<item>
+ <title>Google Release Chrome OS Flex</title>
+ <link>https://chromeenterprise.google/os/chromeosflex/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Never use text pixelation to redact sensitive information</title>
+ <link>https://bishopfox.com/blog/unredacter-tool-never-pixelation</link>
+ <description></description>
+ </item>
+<item>
+ <title>Consciousness is supported by near-critical slow cortical electrodynamics</title>
+ <link>https://www.pnas.org/content/119/7/e2024455119</link>
+ <description></description>
+ </item>
+<item>
+ <title>My thoughts on writing a Minecraft server from scratch in Bash (sdomi.pl)</title>
+ <link>https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Acute aerobic exercise to recover from mental exhaustion (pubmed.ncbi.nlm.nih.gov)</title>
+ <link>https://pubmed.ncbi.nlm.nih.gov/34516957/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Music theory for nerds (2016) (eev.ee)</title>
+ <link>https://eev.ee/blog/2016/09/15/music-theory-for-nerds/</link>
+ <description></description>
+ </item>
+<item>
+ <title>State of JavaScript 2021 (2021.stateofjs.com)</title>
+ <link>https://2021.stateofjs.com/en-us/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Imitate, Then Innovate (perell.com)</title>
+ <link>https://perell.com/essay/imitate-then-innovate/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Almost every publicly available CVE PoC (github.com)</title>
+ <link>https://github.com/trickest/cve</link>
+ <description></description>
+ </item>
+<item>
+ <title>All Google Cloud product in this periodic table (googlecloudcheatsheet.withgoogle.com)</title>
+ <link>https://googlecloudcheatsheet.withgoogle.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How can you be fooled by the U+202E trick? (2013) (galogetlatorre.blogspot.com)</title>
+ <link>https://galogetlatorre.blogspot.com/2013/07/how-can-you-be-fooled-by-u202e-trick.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>EmacsConf 2021: Schedule, &amp; How to Watch and Participate (lists.gnu.org)</title>
+ <link>https://lists.gnu.org/archive/html/emacsconf-discuss/2021-11/msg00000.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Org-babel proved to be excellent for the high volume of code reuse in SICP! (github.com)</title>
+ <link>https://github.com/nebhrajani-a/sicp</link>
+ <description></description>
+ </item>
+<item>
+ <title>Emacs Ninja - Forbidden Emacs Lisp Knowledge: Block Comments (emacsninja.com)</title>
+ <link>https://emacsninja.com/posts/forbidden-emacs-lisp-knowledge-block-comments.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>My thoughts on writing a Minecraft server from scratch (in Bash) (sdomi.pl)</title>
+ <link>https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/</link>
+ <description></description>
+ </item>
+<item>
+ <title>hwatch - A modern alternative to the watch command, records the differences in execution results and can check this differences at after. (github.com)</title>
+ <link>https://github.com/blacknon/hwatch</link>
+ <description></description>
+ </item>
+<item>
+ <title>Tell ONE terminal app you use everyday but no one seems know about the app (www.reddit.com)</title>
+ <link>https://www.reddit.com/r/commandline/comments/ss9s99/tell_one_terminal_app_you_use_everyday_but_no_one/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Try out CTV: a highly configurable tree view file visualizer CLI tool made with Rust! (github.com)</title>
+ <link>https://github.com/angelina-tsuboi/ctv</link>
+ <description></description>
+ </item>
+<item>
+ <title>Show HN: hue.tools – open-source toolbox for colors (hue.tools)</title>
+ <link>https://hue.tools/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Brrr.money (brrr.money)</title>
+ <link>https://brrr.money/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Google Cloud architecture diagramming tool (cloud.google.com)</title>
+ <link>https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool</link>
+ <description></description>
+ </item>
+<item>
+ <title>Orientation Keypoints for 6D Human Pose Estimation (r0nn13.github.io)</title>
+ <link>https://r0nn13.github.io/okps-project/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Writing, Editing and World-Building at the speed of thought with Vim (www.youtube.com)</title>
+ <link>https://www.youtube.com/watch?v=2ORWaIqyj7k</link>
+ <description></description>
+ </item>
+<item>
+ <title>Track down the JavaScript code responsible for polluting the global scope</title>
+ <link>https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope/</link>
+ <description></description>
+ </item>
+<item>
+ <title>NATSpeech: High Quality Text-to-Speech Implementation with HuggingFace Demo (github.com)</title>
+ <link>https://github.com/NATSpeech/NATSpeech</link>
+ <description></description>
+ </item>
+<item>
+ <title>Pure sh bible – Posix sh alternatives to external processes (github.com)</title>
+ <link>https://github.com/dylanaraps/pure-sh-bible</link>
+ <description></description>
+ </item>
+<item>
+ <title>Pure Bash Bible – A collection of pure bash alternatives to external processes (github.com)</title>
+ <link>https://github.com/dylanaraps/pure-bash-bible</link>
+ <description></description>
+ </item>
+<item>
+ <title>Predicting OverWatch™ Match Outcomes with 90% Accuracy (taven.me)</title>
+ <link>https://taven.me/openskill/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Necessity of Metaphysics: An Introduction to the Philosophical Discipline of Metaphysics for Computer Scientists and the Physical Sciences (shen.hong.io)</title>
+ <link>https://shen.hong.io/intro-to-metaphysics-for-compsci-and-scientists/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Exclusive session with Certification by TechLearn on Amazon Go - Future of Shopping (www.techlearn.live)</title>
+ <link>https://www.techlearn.live/course/how-computer-vision-and-sensor-fusion-helped-amazon-go-stores?aref=AUAUQ-ALWIN-9810</link>
+ <description></description>
+ </item>
+<item>
+ <title>SOLID principles and common misconceptions (www.rockandnull.com)</title>
+ <link>https://www.rockandnull.com/solid-principles-examples/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Performance Vs. Scalability (christianfindlay.com)</title>
+ <link>https://christianfindlay.com/2022/02/13/performance-vs-scalability/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Linux Reddit: a gift for one of your own (www.reddit.com)</title>
+ <link>https://www.reddit.com/r/linux/comments/stgz11/linux_reddit_a_gift_for_one_of_your_own/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Use videos as your wallpaper with low CPU/Memory Usage with GPU-Video-Wallpaper (github.com)</title>
+ <link>https://github.com/ghostlexly/gpu-video-wallpaper</link>
+ <description></description>
+ </item>
+<item>
+ <title>Re-drawing images as sine wave art (github.com)</title>
+ <link>https://github.com/tuydore/sineart</link>
+ <description></description>
+ </item>
+<item>
+ <title>Recursive Queries in PostgreSQL for Hierarchical Data (indrajith.me)</title>
+ <link>https://indrajith.me/posts/recursive-queries-in-postgresql-for-hierarchial-data/</link>
+ <description></description>
+ </item>
+<item>
+ <title>CUPID for joyful programming (dannorth.net)</title>
+ <link>https://dannorth.net/2022/02/10/cupid-for-joyful-coding/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Unikernels (github.com)</title>
+ <link>https://github.com/seeker89/unikernels</link>
+ <description></description>
+ </item>
+<item>
+ <title>Introducing Users and Privileges (www.dolthub.com)</title>
+ <link>https://www.dolthub.com/blog/2022-02-16-introducing-users-and-privileges/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Melody - A language that compiles to regular expressions and aims to be more easily readable and maintainable (github.com)</title>
+ <link>https://github.com/yoav-lavi/melody</link>
+ <description></description>
+ </item>
+<item>
+ <title>I quit my job to make free web tools (www.nslookup.io)</title>
+ <link>https://www.nslookup.io/blog/i-quit-my-job/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Introduction to Deeplearning in animated form :) Check it out ! (www.youtube.com)</title>
+ <link>https://www.youtube.com/watch?v=9DOBQ0rUXrQ&amp;feature=youtu.be</link>
+ <description></description>
+ </item>
+<item>
+ <title>Becoming a Better Writer as a Software Engineer (blog.pragmaticengineer.com)</title>
+ <link>https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/</link>
+ <description></description>
+ </item>
+<item>
+ <title>React - The Missing Parts (acko.net)</title>
+ <link>https://acko.net/blog/react-the-missing-parts/</link>
+ <description></description>
+ </item>
+<item>
+ <title>implenting Heap data structure in JavaScript (stackfull.dev)</title>
+ <link>https://stackfull.dev/heaps-in-javascript?x-host=stackfull.dev</link>
+ <description></description>
+ </item>
+<item>
+ <title>An Introductory Guide To Concurrent Rendering (www.chakshunyu.com)</title>
+ <link>https://www.chakshunyu.com/blog/an-introductory-guide-to-concurrent-rendering/&amp;amp;&amp;amp;</link>
+ <description></description>
+ </item>
+<item>
+ <title>I built an open source Chrome &amp; Firefox extension that generates Playwright or Puppeteer scripts right from your browser interactions (updated!) (www.deploysentinel.com)</title>
+ <link>https://www.deploysentinel.com/recorder</link>
+ <description></description>
+ </item>
+<item>
+ <title>More Low Level JavaScript Shenanigans: Building A FAT32 Filesystem Layer On Top Of the SD-Card Driver (www.youtube.com)</title>
+ <link>https://www.youtube.com/watch?t=115&amp;v=GMkjey1FTe0&amp;feature=youtu.be</link>
+ <description></description>
+ </item>
+<item>
+ <title>Version 100 in Chrome and Firefox (hacks.mozilla.org)</title>
+ <link>https://hacks.mozilla.org/2022/02/version-100-in-chrome-and-firefox/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Dependency Injection in JavaScript: Write Testable Code Easily (blog.appsignal.com)</title>
+ <link>https://blog.appsignal.com/2022/02/16/dependency-injection-in-javascript-write-testable-code-easily.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Mimic Rust%27s Result type in 7 lines of TypeScript (www.huy.rocks)</title>
+ <link>https://www.huy.rocks/everyday/02-14-2022-typescript-implement-rust-style-result</link>
+ <description></description>
+ </item>
+<item>
+ <title>Applying tree traversal algorithms to DOM (stackfull.dev)</title>
+ <link>https://stackfull.dev/applying-tree-traversal-algorithms-to-dom?x-host=stackfull.dev</link>
+ <description></description>
+ </item>
+<item>
+ <title>Find what JavaScript variables are leaking into the global scope (mmazzarolo.com)</title>
+ <link>https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A note about Lodash and Tree shaking (www.huy.rocks)</title>
+ <link>https://www.huy.rocks/everyday/02-09-2022-javascript-named-imports-and-dead-code-elimination</link>
+ <description></description>
+ </item>
+<item>
+ <title>HTTP imports in node (h3manth.com)</title>
+ <link>https://h3manth.com/posts/HTTP-imports-node/</link>
+ <description></description>
+ </item>
+<item>
+ <title>An async &amp; dynamic ORM for Rust (github.com)</title>
+ <link>https://github.com/SeaQL/sea-orm</link>
+ <description></description>
+ </item>
+<item>
+ <title>LinkAce - Your self-hosted bookmark archive. Free and open source. (github.com)</title>
+ <link>https://github.com/Kovah/LinkAce/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Note-taking app that uses Git and is FOSS | GitJournal (gitjournal.io)</title>
+ <link>https://gitjournal.io/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Note-taking app that uses Git and is FOSS | GitJournal (gitjournal.io)</title>
+ <link>https://gitjournal.io/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Self-Hosting with Cloudflare Tunnels (feat Raspberry Pi) (jrashford.com)</title>
+ <link>https://jrashford.com/2022/02/15/self-hosting-with-cloudflare-tunnels-feat-raspberry-pi/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Yet another graphics library but for terminal (github.com)</title>
+ <link>https://github.com/msoap/tcg</link>
+ <description></description>
+ </item>
+<item>
+ <title>The long awaited Go feature: Generics. (www.reddit.com)</title>
+ <link>https://betterprogramming.pub/the-long-awaited-go-feature-generics-4808f565dbe1</link>
+ <description></description>
+ </item>
+<item>
+ <title>A golang tool help you finding github accounts you might be interested in (www.reddit.com)</title>
+ <link>https://github.com/chenminhua/gitfofo</link>
+ <description></description>
+ </item>
+<item>
+ <title>Learning Generics In Go (towardsdatascience.com)</title>
+ <link>https://towardsdatascience.com/learning-generics-in-go-318f53752ccd?sk=2167dcabb003ac49d172669fc7e59766</link>
+ <description></description>
+ </item>
+<item>
+ <title>This Week in Rust #430 (this-week-in-rust.org)</title>
+ <link>https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Rust Survey 2021 Results | Rust Blog (blog.rust-lang.org)</title>
+ <link>https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Software can literally be perfect (talks about some important logical ideas that make the Rust ownership system work, and how we could build a provably correct Rust compiler) (www.youtube.com)</title>
+ <link>https://www.youtube.com/watch?v=Lf7ML_ErWvQ</link>
+ <description></description>
+ </item>
+<item>
+ <title>I scraped 4M dev job offers and Rust language is in the Top 2 spot with an avg salary of $122K per year (www.devjobsscanner.com)</title>
+ <link>https://www.devjobsscanner.com/blog/top-10-highest-paid-programming-languages-in-early-2022/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Why Private Npm Registries Matter and How Verdaccio Makes It Easy (fusebit.io)</title>
+ <link>https://fusebit.io/blog/private-npm-verdaccio/&amp;amp;</link>
+ <description></description>
+ </item>
+<item>
+ <title>Express.js 5 appears to now be in beta (github.com)</title>
+ <link>https://github.com/expressjs/expressjs.com/commit/d3f0d70c315eeb7c45f0727aca97fc2801dc5ce9</link>
+ <description></description>
+ </item>
+<item>
+ <title>Intro To Remix - Working with Nested Routes and Parameterized Routes (www.youtube.com)</title>
+ <link>https://www.youtube.com/watch?v=DdyNViscy94</link>
+ <description></description>
+ </item>
+<item>
+ <title>This Week In React #94: 2 years 🥳️, memoization, composition, Remix, Next.js, Gatsby, React-Native, Windows, CSS, TypeScript, npm, SWC... (www.getrevue.co)</title>
+ <link>https://www.getrevue.co/profile/thisweekinreact/issues/this-week-in-react-94-2-years-memoization-composition-remix-next-js-gatsby-react-native-windows-css-typescript-npm-swc-1030727</link>
+ <description></description>
+ </item>
+<item>
+ <title>Remix vs. Next.js: A Detailed Comparison (blog.bitsrc.io)</title>
+ <link>https://blog.bitsrc.io/remix-vs-next-js-a-detailed-comparison-6ff557f7b41f</link>
+ <description></description>
+ </item>
+<item>
+ <title>DeLorean (CSS Art) (codepen.io)</title>
+ <link>https://codepen.io/ykadosh/pen/yLzmKYp</link>
+ <description></description>
+ </item>
+<item>
+ <title>Who is squatting IPv4 addresses? (blog.benjojo.co.uk)</title>
+ <link>https://blog.benjojo.co.uk/post/ip-address-squatting</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Internals of PostgreSQL (www.interdb.jp)</title>
+ <link>https://www.interdb.jp/pg/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Faster integer formatting - James Anhalt (jeaiii)’s algorithm (jk-jeon.github.io)</title>
+ <link>https://jk-jeon.github.io/posts/2022/02/jeaiii-algorithm/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Learning to Play the Chaos Game (hardmath123) (hardmath123.github.io)</title>
+ <link>https://hardmath123.github.io/chaos-game-fractal-foliage.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Database sync like magic, with Svelte + Firestore (lexoral.com)</title>
+ <link>https://lexoral.com/blog/svelte-firestore-binding/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A beginner%27s guide to Serializability (vladmihalcea.com)</title>
+ <link>https://vladmihalcea.com/serializability/</link>
+ <description></description>
+ </item>
+<item>
+ <title>hue.tools - An open source toolbox for colors. (hue.tools)</title>
+ <link>https://hue.tools/?format=hex</link>
+ <description></description>
+ </item>
+<item>
+ <title>Better Way To Write Async Function in Node/Express/Next (blog.qoddi.com)</title>
+ <link>https://blog.qoddi.com/better-way-to-write-async-function-in-node-express-next-handle-catch-err-only-once/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Using CSS Media Queries and Variables for Responsiveness (dillionmegida.com)</title>
+ <link>https://dillionmegida.com/p/media-queries-and-variables-for-responsiveness/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The No-Nonsense Styling Method (benlorantfy.com)</title>
+ <link>https://benlorantfy.com/the-no-nonsense-styling-method</link>
+ <description></description>
+ </item>
+<item>
+ <title>A technique to semi-automatically find vulnerabilities in WordPress plugins (kazet.cc)</title>
+ <link>https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>DatoRSS transforms RSS into something you want to use (github.com)</title>
+ <link>https://github.com/davidesantangelo/dato.rss</link>
+ <description></description>
+ </item>
+<item>
+ <title>docker-experiment: Encapsulating (almost) every single software on my computer in a Docker container (github.com)</title>
+ <link>https://github.com/henriquehbr/docker-experiment</link>
+ <description></description>
+ </item>
+<item>
+ <title>emocrypt - Encrypt text/data into an emoji soup (github.com)</title>
+ <link>https://github.com/degaart/emocrypt</link>
+ <description></description>
+ </item>
+<item>
+ <title>Wifi Network Testing - Scan your wifi network and obtain troubleshooting details, with extreme granularity; using a colorful command-line tool with no technical skill necessary. (github.com)</title>
+ <link>https://github.com/angela-d/wifi-network-testing</link>
+ <description></description>
+ </item>
+<item>
+ <title>Pure SVG Island Group in 541 bytes tutorial (www.youtube.com)</title>
+ <link>https://www.youtube.com/watch?v=kL5XW_PB5P8</link>
+ <description></description>
+ </item>
+<item>
+ <title>GitHub - procedural_plants: Breed procedurally generated plants based on their DNA (github.com)</title>
+ <link>https://github.com/pachacamac/procedural_plants</link>
+ <description></description>
+ </item>
+<item>
+ <title>guides/ALTERNATIVES.md at master · mayfrost/guides (github.com)</title>
+ <link>https://github.com/mayfrost/guides/blob/master/ALTERNATIVES.md</link>
+ <description></description>
+ </item>
+<item>
+ <title>LISP IN 436 BYTES (justine.lol)</title>
+ <link>https://justine.lol/sectorlisp2/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Lossless Image Compression in O(n) Time (phoboslab.org)</title>
+ <link>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</link>
+ <description></description>
+ </item>
+<item>
+ <title>13yo kid builds TinyML powered “e-nose” to diagnose pneumonia (blog.benjamin-cabe.com)</title>
+ <link>https://blog.benjamin-cabe.com/2022/02/16/how-a-13-year-old-used-my-artificial-nose-to-diagnose-pneumonia</link>
+ <description></description>
+ </item>
+<item>
+ <title>Evidence, reason, and compassion for all sentient beings (with Jamie Woodhouse) (clearerthinkingpodcast.com)</title>
+ <link>https://clearerthinkingpodcast.com/episode/090</link>
+ <description></description>
+ </item>
+<item>
+ <title>Can the economy grow indefinitely? (with Alyssa Vance) (clearerthinkingpodcast.com)</title>
+ <link>https://clearerthinkingpodcast.com/episode/089</link>
+ <description></description>
+ </item>
+<item>
+ <title>How I got rich on the other hand (sive.rs)</title>
+ <link>https://sive.rs/richand</link>
+ <description></description>
+ </item>
+<item>
+ <title>Cut out everything that’s not surprising (sive.rs)</title>
+ <link>https://sive.rs/d22</link>
+ <description></description>
+ </item>
+<item>
+ <title>Confucius – Why we need rituals (ralphammer.com)</title>
+ <link>https://ralphammer.com/confucius-why-we-need-rituals/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Ludwig Wittgenstein – How we speak (ralphammer.com)</title>
+ <link>https://ralphammer.com/how-we-speak/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Seeing vs. reading (ralphammer.com)</title>
+ <link>https://ralphammer.com/seeing-vs-reading/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A Review of Shader Languages (alain.xyz)</title>
+ <link>https://alain.xyz/blog/a-review-of-shader-languages</link>
+ <description></description>
+ </item>
+<item>
+ <title>Discovering org-roam (www.lucacambiaghi.com)</title>
+ <link>https://www.lucacambiaghi.com/posts/discovering-org-roam.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>My simple org mode system (www.lucacambiaghi.com)</title>
+ <link>https://www.lucacambiaghi.com/posts/org-gtd.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Lift as you climb (github.com)</title>
+ <link>https://github.com/readme/stories/cassidy-williams</link>
+ <description></description>
+ </item>
+<item>
+ <title>Using code as documentation to save time and share context (github.com)</title>
+ <link>https://github.com/readme/guides/code-as-documentation</link>
+ <description></description>
+ </item>
+<item>
+ <title>Code review is too late for code quality (github.com)</title>
+ <link>https://github.com/readme/guides/code-review</link>
+ <description></description>
+ </item>
+<item>
+ <title>What we can learn from “_why”, the long lost open source developer (github.com)</title>
+ <link>https://github.com/readme/featured/why-the-lucky-stiff</link>
+ <description></description>
+ </item>
+<item>
+ <title>YYMMDDHHMM just overflowed a signed 32 bit int (rachelbythebay.com)</title>
+ <link>https://rachelbythebay.com/w/2022/01/01/baddate/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A terrible schema from a clueless programmer (rachelbythebay.com)</title>
+ <link>https://rachelbythebay.com/w/2021/11/06/sql/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Wasteful by design (barre.sh)</title>
+ <link>https://barre.sh/wasteful-by-design/</link>
+ <description></description>
+ </item>
+<item>
+ <title>CSS Scan Pro — A re-imagined DevTools for web design (www.bram.us)</title>
+ <link>https://www.bram.us/2022/02/11/css-scan-pro-a-re-imagined-devtools-for-web-design/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to Favicon in 2022 (www.bram.us)</title>
+ <link>https://www.bram.us/2022/02/11/how-to-favicon-in-2022/</link>
+ <description></description>
+ </item>
+<item>
+ <title>uBlock, I exfiltrate: exploiting ad blockers with CSS (portswigger.net)</title>
+ <link>https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css</link>
+ <description></description>
+ </item>
+<item>
+ <title>Finding DOM Polyglot XSS in PayPal the Easy Way (portswigger.net)</title>
+ <link>https://portswigger.net/research/finding-dom-polyglot-xss-in-paypal-the-easy-way</link>
+ <description></description>
+ </item>
+<item>
+ <title>Evading defences using VueJS script gadgets (portswigger.net)</title>
+ <link>https://portswigger.net/research/evading-defences-using-vuejs-script-gadgets</link>
+ <description></description>
+ </item>
+<item>
+ <title>Bypassing DOMPurify again with mutation XSS (portswigger.net)</title>
+ <link>https://portswigger.net/research/bypassing-dompurify-again-with-mutation-xss</link>
+ <description></description>
+ </item>
+<item>
+ <title>Redefining Impossible: XSS without arbitrary JavaScript (portswigger.net)</title>
+ <link>https://portswigger.net/research/redefining-impossible-xss-without-arbitrary-javascript</link>
+ <description></description>
+ </item>
+<item>
+ <title>Attacking and defending JavaScript sandboxes (portswigger.net)</title>
+ <link>https://portswigger.net/research/attacking-and-defending-javascript-sandboxes</link>
+ <description></description>
+ </item>
+<item>
+ <title>JavaScript without parentheses using DOMMatrix (portswigger.net)</title>
+ <link>https://portswigger.net/research/javascript-without-parentheses-using-dommatrix</link>
+ <description></description>
+ </item>
+<item>
+ <title>Dangerous toys: Anything to ed25519 (SSH Keys) (0xcc.re)</title>
+ <link>https://0xcc.re/2022/02/01/dangerous-toys-anything-to-ed25519-ssh-keys.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>I need to stop sabotaging myself (jakobgreenfeld.com)</title>
+ <link>http://jakobgreenfeld.com/self-sabotage</link>
+ <description></description>
+ </item>
+<item>
+ <title>Overcoming limiting scripts through agency expanding experiments (jakobgreenfeld.com)</title>
+ <link>http://jakobgreenfeld.com/invisible-scripts</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to win the metagame (in real life) (jakobgreenfeld.com)</title>
+ <link>http://jakobgreenfeld.com/metagame</link>
+ <description></description>
+ </item>
+<item>
+ <title>Don’t read this (jakobgreenfeld.com)</title>
+ <link>http://jakobgreenfeld.com/dont</link>
+ <description></description>
+ </item>
+<item>
+ <title>A guide to Kubernetes architecture (opensource.com)</title>
+ <link>https://opensource.com/article/22/2/kubernetes-architecture</link>
+ <description></description>
+ </item>
+<item>
+ <title>Light/Dark Toggle for Neovim, Fish, and Kitty (evantravers.com)</title>
+ <link>https://evantravers.com/articles/2022/02/08/light-dark-toggle-for-neovim-fish-and-kitty/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Lifecycle of Notes: My Implementation (evantravers.com)</title>
+ <link>https://evantravers.com/articles/2021/10/30/lifecycle-of-notes-my-implementation/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Nurturing Notes and Thoughts (evantravers.com)</title>
+ <link>https://evantravers.com/articles/2021/10/25/nurturing-notes-and-thoughts/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A Tool to Aid Forgetfulness (christine.website)</title>
+ <link>https://christine.website/blog/a-tool-to-aid-forgetfulness-2022-01-12</link>
+ <description></description>
+ </item>
+<item>
+ <title>VTubing on Linux (christine.website)</title>
+ <link>https://christine.website/blog/vtubing-linux-2021-01-15</link>
+ <description></description>
+ </item>
+<item>
+ <title>Disclosing Shamir’s Secret Sharing vulnerabilities and announcing ZKDocs (blog.trailofbits.com)</title>
+ <link>https://blog.trailofbits.com/2021/12/21/disclosing-shamirs-secret-sharing-vulnerabilities-and-announcing-zkdocs/</link>
+ <description></description>
+ </item>
+<item>
+ <title>What3Words – The Algorithm (cybergibbons.com)</title>
+ <link>https://cybergibbons.com/security-2/what3words-the-algorithm/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Of hosting files in url minifiers (fulmicoton.com)</title>
+ <link>https://fulmicoton.com/posts/urlminifier/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Of tantivy, a search engine in Rust (fulmicoton.com)</title>
+ <link>https://fulmicoton.com/posts/behold-tantivy/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Of solving the rubik%27s from scratch (fulmicoton.com)</title>
+ <link>https://fulmicoton.com/posts/rubix/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Hosting my static sites with nginx (jvns.ca)</title>
+ <link>https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to find a domain%27s authoritative nameservers (jvns.ca)</title>
+ <link>https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Google announces zero-day in Chrome browser – update now! (nakedsecurity.sophos.com)</title>
+ <link>https://nakedsecurity.sophos.com/2022/02/15/google-announces-zero-day-in-chrome-browser-update-now/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Wormhole cryptotrading company turns over $340,000,000 to criminals (nakedsecurity.sophos.com)</title>
+ <link>https://nakedsecurity.sophos.com/2022/02/04/wormhole-cryptotrading-company-turns-over-340000000-to-criminals/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Seven Sins: Security Smells in Infrastructure as Code Scripts (neverworkintheory.org)</title>
+ <link>https://neverworkintheory.org/2021/11/23/security-smells-in-infrastructure-as-code-scripts.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Text Analysis in Rust - Tokenization (nitschinger.at)</title>
+ <link>https://nitschinger.at/Text-Analysis-in-Rust-Tokenization/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Minecraft Server in Docker: Adulting Made Easy (serialized.net)</title>
+ <link>https://serialized.net/2021/02/minecraft_server_docker/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Building a Multiplayer Game with API Gateway+Websockets, Go and DynamoDB (serialized.net)</title>
+ <link>https://serialized.net/2020/09/multiplayer/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Effective Technical Diagrams (serialized.net)</title>
+ <link>https://serialized.net/2020/02/effective_technical_diagrams/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Make-ing Mermaid (serialized.net)</title>
+ <link>https://serialized.net/2019/08/mermaid/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Designing Systems with The Magic Box (serialized.net)</title>
+ <link>https://serialized.net/2019/02/magic_box/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Making Bacon with Golang (serialized.net)</title>
+ <link>https://serialized.net/2018/07/making-bacon-with-golang/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Finding Feeds 3 Ways (serialized.net)</title>
+ <link>https://serialized.net/2018/06/finding-feeds-3-ways/</link>
+ <description></description>
+ </item>
+<item>
+ <title>GoAccess - real-time web log analyzer</title>
+ <link>https://goaccess.io/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Improving 24x7 coverage through visualization (serialized.net)</title>
+ <link>https://serialized.net/2017/06/visualizing_24x7/</link>
+ <description></description>
+ </item>
+<item>
+ <title>This Week in Rust 430 (this-week-in-rust.org)</title>
+ <link>https://this-week-in-rust.org/blog/2022/02/16/this-week-in-rust-430/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Non-Blocking Parallelism for Services in Go (www.goldsborough.me)</title>
+ <link>http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How I Found My First Ever ZeroDay (In RDP) (www.malwaretech.com)</title>
+ <link>https://www.malwaretech.com/2020/12/how-i-found-my-first-ever-zeroday-in-rdp.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>The web0 manifesto (ar.al)</title>
+ <link>https://ar.al/2022/01/06/the-web0-manifesto-a-technical-review/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Implementing dark mode in a handful of lines of CSS with CSS filters (ar.al)</title>
+ <link>https://ar.al/2021/08/24/implementing-dark-mode-in-a-handful-of-lines-of-css-with-css-filters/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Skypack: Backdoor as a Service? (ar.al)</title>
+ <link>https://ar.al/2020/12/30/skypack-backdoor-as-a-service/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Concurrent programming, with examples (begriffs.com)</title>
+ <link>https://begriffs.com/posts/2020-03-23-concurrent-programming.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Quick reproducible zig dev env using nix flakes (blog.cyplo.dev)</title>
+ <link>https://blog.cyplo.dev/posts/2022/01/zig-direnv/</link>
+ <description></description>
+ </item>
+<item>
+ <title>My 2020 setup (blog.cyplo.dev)</title>
+ <link>https://blog.cyplo.dev/posts/2020/12/setup/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Flakes are such an obviously good thing (grahamc.com)</title>
+ <link>https://grahamc.com/blog/flakes-are-an-obviously-good-thing</link>
+ <description></description>
+ </item>
+<item>
+ <title>Erase your darlings (grahamc.com)</title>
+ <link>https://grahamc.com/blog/erase-your-darlings</link>
+ <description></description>
+ </item>
+<item>
+ <title>Real-World Framing (feat. anti-Vaxxers) (ideatrash.net)</title>
+ <link>https://ideatrash.net/2022/01/real-world-framing-feat-anti-vaxxers.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>How To Solve A Rubik%27s Cube For Beginners (kevq.uk)</title>
+ <link>https://kevq.uk/how-to-solve-3x3-rubiks-cube/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Off-The-Record Messaging part 1: the problem with PGP (robertheaton.com)</title>
+ <link>https://robertheaton.com/otr1</link>
+ <description></description>
+ </item>
+<item>
+ <title>Height: 2ft 10 inches. Occupation: baby (robertheaton.com)</title>
+ <link>https://robertheaton.com/height-2-10-occupation-baby/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Build system insights (ruudvanasseldonk.com)</title>
+ <link>https://ruudvanasseldonk.com/2018/09/03/build-system-insights</link>
+ <description></description>
+ </item>
+<item>
+ <title>Zero-cost abstractions (ruudvanasseldonk.com)</title>
+ <link>https://ruudvanasseldonk.com/2016/11/30/zero-cost-abstractions</link>
+ <description></description>
+ </item>
+<item>
+ <title>Left To My Own Devices – Fast NTCracking in Rust (sensepost.com)</title>
+ <link>https://sensepost.com/blog/2022/left-to-my-own-devices-fast-ntcracking-in-rust/</link>
+ <description></description>
+ </item>
+<item>
+ <title>SIM Hijacking (sensepost.com)</title>
+ <link>https://sensepost.com/blog/2022/sim-hijacking/</link>
+ <description></description>
+ </item>
+<item>
+ <title>dwn – a docker pwn tool manager experiment (sensepost.com)</title>
+ <link>https://sensepost.com/blog/2021/dwn-a-docker-pwn-tool-manager-experiment/</link>
+ <description></description>
+ </item>
+<item>
+ <title>#05 - NixOS Weekly (weekly.nixos.org)</title>
+ <link>https://weekly.nixos.org/2021/05-nixos-weekly-2021-05.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>A Case Study in Not Being A Jerk in Open Source (www.destroyallsoftware.com)</title>
+ <link>https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source</link>
+ <description></description>
+ </item>
+<item>
+ <title>Breaking 256-bit Elliptic Curve Encryption with a Quantum Computer (www.schneier.com)</title>
+ <link>https://www.schneier.com/blog/archives/2022/02/breaking-245-bit-elliptic-curve-encryption-with-a-quantum-computer.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Bunnie Huang’s Plausibly Deniable Database (www.schneier.com)</title>
+ <link>https://www.schneier.com/blog/archives/2022/02/bunnie-huangs-plausibly-deniable-database.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>So-called modern web developers are the culprits (unixsheikh.com)</title>
+ <link>https://unixsheikh.com/articles/so-called-modern-web-developers-are-the-culprits.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>SQLite the only database you will ever need in most cases (unixsheikh.com)</title>
+ <link>https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Procedural programming in a nutshell (unixsheikh.com)</title>
+ <link>https://unixsheikh.com/articles/procedural-programming-in-a-nutshell.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Show HN: Hacker News clone using Remix and React (github.com)</title>
+ <link>https://github.com/clintonwoo/hackernews-remix-react</link>
+ <description></description>
+ </item>
+<item>
+ <title>Three browser makers, web devs scramble to fix V100 bugs (www.theverge.com)</title>
+ <link>https://www.theverge.com/2022/2/17/22938721/chrome-firefox-edge-version-100-websites-bug-compatibility-issues-mozilla-google-microsoft</link>
+ <description></description>
+ </item>
+<item>
+ <title>Build and deploy JAMstack applications with Cloudflare pages (blog.openreplay.com)</title>
+ <link>https://blog.openreplay.com/build-and-deploy-jamstack-applications-with-cloudflare-pages/</link>
+ <description></description>
+ </item>
+<item>
+ <title>New Tutorial: Reactivity with Stellify Posted on Dev.to (dev.to)</title>
+ <link>https://dev.to/matthew_anderson/reactivity-with-stellify-2nif</link>
+ <description></description>
+ </item>
+<item>
+ <title>Next.js 12.1: On-demand ISR, support for styled-components and Relay, zero-config Jest support (nextjs.org)</title>
+ <link>https://nextjs.org/blog/next-12-1</link>
+ <description></description>
+ </item>
+<item>
+ <title>React Boilerplate with Next.js + Tailwind CSS + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode (github.com)</title>
+ <link>https://github.com/ixartz/Next-js-Boilerplate</link>
+ <description></description>
+ </item>
+<item>
+ <title>Getting Started With the File System Access API (css-tricks.com)</title>
+ <link>https://css-tricks.com/getting-started-with-the-file-system-access-api/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Minze - Dead-simple framework for shareable web components</title>
+ <link>https://minze.dev/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How does UTF-8 turn “😂” into “F09F9882”? (sethmlarson.dev)</title>
+ <link>https://sethmlarson.dev/blog/utf-8?date=2022-02-08</link>
+ <description></description>
+ </item>
+<item>
+ <title>A Complete Web Developer Reading List (thenewcode.com)</title>
+ <link>http://thenewcode.com/1203/A-Complete-Web-Developer-Reading-List</link>
+ <description></description>
+ </item>
+<item>
+ <title>Better Links for Printed Web Pages with JavaScript (thenewcode.com)</title>
+ <link>http://thenewcode.com/1186/Better-Links-for-Printed-Web-Pages-with-JavaScript</link>
+ <description></description>
+ </item>
+<item>
+ <title>pppointed - SVG arrow maker</title>
+ <link>https://fffuel.co/pppointed/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Digital Curator - Central European Art Exploration with Computer Vision</title>
+ <link>https://digitalcurator.art/</link>
+ <description></description>
+ </item>
+<item>
+ <title>An Auto-Filling CSS Grid With Max Columns of a Minimum Size (css-tricks.com)</title>
+ <link>https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/</link>
+ <description></description>
+ </item>
+<item>
+ <title>6 Creative Ideas for CSS Link Hover Effects (css-tricks.com)</title>
+ <link>https://css-tricks.com/css-link-hover-effects/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Helpful Tips for Starting a Next.js Chrome Extension (css-tricks.com)</title>
+ <link>https://css-tricks.com/nextjs-chrome-extension-starter/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Using global memoization in React (thoughtspile.github.io)</title>
+ <link>https://thoughtspile.github.io/2022/02/09/react-global-memo/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Good advice on JSX conditionals (thoughtspile.github.io)</title>
+ <link>https://thoughtspile.github.io/2022/01/17/jsx-conditionals/</link>
+ <description></description>
+ </item>
+<item>
+ <title>useEffect sometimes fires before paint (thoughtspile.github.io)</title>
+ <link>https://thoughtspile.github.io/2021/11/15/unintentional-layout-effect/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Why I always wrap Context.Provider and useContext (thoughtspile.github.io)</title>
+ <link>https://thoughtspile.github.io/2021/10/27/better-react-context/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to replace useState with useRef and be a winner (thoughtspile.github.io)</title>
+ <link>https://thoughtspile.github.io/2021/10/18/non-react-state/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to destroy your app performance using React contexts (thoughtspile.github.io)</title>
+ <link>https://thoughtspile.github.io/2021/10/04/react-context-dangers/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Algorithms For Modern Hardware</title>
+ <link>https://en.algorithmica.org/hpc/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Filters to block and remove copycat-websites from DuckDuckGo, Google and other (github.com)</title>
+ <link>https://github.com/quenhus/uBlock-Origin-dev-filter</link>
+ <description></description>
+ </item>
+<item>
+ <title>COVID Won’t End Up Like the Flu. It Will Be Like Smoking. (www.theatlantic.com)</title>
+ <link>https://www.theatlantic.com/health/archive/2022/02/covid-anti-vaccine-smoking/622819/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Fruit flies possess more sophisticated cognitive abilities than previously known (phys.org)</title>
+ <link>https://phys.org/news/2022-02-fruit-flies-sophisticated-cognitive-abilities.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Scientists demonstrate self-awareness in fish (phys.org)</title>
+ <link>https://phys.org/news/2022-02-scientists-self-awareness-fish.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>AI Is Helping Scientists Explain the Brain (nautil.us)</title>
+ <link>https://nautil.us/ai-is-helping-scientists-explain-the-brain-14073/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Moon Is Underrated (nautil.us)</title>
+ <link>https://nautil.us/the-moon-is-underrated-14018/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Cookie consents are gone. Now is the time for a federal privacy law. (www.protocol.com)</title>
+ <link>https://www.protocol.com/policy/cookie-consents-gdpr</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to Draw Generative NFT Mushrooms with Three.js 🍄 (hackernoon.com)</title>
+ <link>https://hackernoon.com/how-to-draw-generative-nft-mushrooms-with-threejs?source=rss</link>
+ <description></description>
+ </item>
+<item>
+ <title>John Lennon on the Satisfying Difficulty of Excellence and the Vital Role of Invisible Incubation in the Creative Process (www.themarginalian.org)</title>
+ <link>https://www.themarginalian.org/2022/02/16/john-lennon-jonathan-cott-interview/</link>
+ <description></description>
+ </item>
+<item>
+ <title>My God, It’s Full of Stars: An Animated Serenade to Hubble and Our Human Hunger to Know the Universe (www.themarginalian.org)</title>
+ <link>https://www.themarginalian.org/2022/02/11/universe-in-verse-animated-hubble/</link>
+ <description></description>
+ </item>
+<item>
+ <title>What Happens When We Die (www.themarginalian.org)</title>
+ <link>https://www.themarginalian.org/2022/01/10/alan-lightman-death/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Unreasonable Math of Type 1 Diabetes (maori.geek.nz)</title>
+ <link>https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb?gi=a3b25a4cbeb0</link>
+ <description></description>
+ </item>
+<item>
+ <title>No one cares about your redesign (www.garbageday.email)</title>
+ <link>https://www.garbageday.email/p/no-one-cares-about-your-redesign</link>
+ <description></description>
+ </item>
+<item>
+ <title>tap - customizable note-taking system (commercial)</title>
+ <link>https://www.tatatap.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Scientist busts myths about how humans burn calories (www.science.org)</title>
+ <link>https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why</link>
+ <description></description>
+ </item>
+<item>
+ <title>Internals of Go%27s new fuzzing system (jayconrod.com)</title>
+ <link>https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system</link>
+ <description></description>
+ </item>
+<item>
+ <title>Versatile Open Source online SVG path editor (github.com)</title>
+ <link>https://github.com/Yqnn/svg-path-editor</link>
+ <description></description>
+ </item>
+<item>
+ <title>Human brain doesn%27t slow down until after 60 (medicalxpress.com)</title>
+ <link>https://medicalxpress.com/news/2022-02-human-brain-doesnt.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Google Analytics declared illegal in France (techcrunch.com)</title>
+ <link>https://techcrunch.com/2022/02/10/cnil-google-analytics-gdpr-breach/</link>
+ <description></description>
+ </item>
+<item>
+ <title>SmartWater: The forensic spray helping keep women safe (www.bbc.co.uk)</title>
+ <link>https://www.bbc.co.uk/news/technology-60414452?at_medium=RSS&amp;at_campaign=KARANGA</link>
+ <description></description>
+ </item>
+<item>
+ <title>Ancient dwarf galaxy reconstructed with MilkyWay@home volunteer computer (phys.org)</title>
+ <link>https://phys.org/news/2022-02-ancient-dwarf-galaxy-reconstructed-milkywayhome.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>The %27Candy Bomber%27 who dropped sweets during the Berlin airlift has died at age 101 (choice.npr.org)</title>
+ <link>https://choice.npr.org/index.html?origin=https://www.npr.org/2022/02/17/1081594481/the-candy-bomber-who-dropped-sweets-during-the-berlin-airlift-has-died-at-age-10</link>
+ <description></description>
+ </item>
+<item>
+ <title>Confirmed: Curia of Pompey, where Julius Caesar was killed, was built in three phases (arstechnica.com)</title>
+ <link>https://arstechnica.com/science/2022/02/confirmed-curia-of-pompey-where-julius-caesar-was-killed-was-built-in-three-phases/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Jumpspeak - AI-powered Spanish Tutor</title>
+ <link>https://www.jumpspeak.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>‘The Smaller the Piece of Cheese, the More the Mice Fight Over It’ (www.theatlantic.com)</title>
+ <link>https://www.theatlantic.com/culture/archive/2022/02/conversation-with-margaret-atwood/622845/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Dune: Spice Wars (www.dunegames.com)</title>
+ <link>https://www.dunegames.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Huetone (huetone.ardov.me)</title>
+ <link>https://huetone.ardov.me/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Against Pair Programming (matt-rickard.com)</title>
+ <link>https://matt-rickard.com/against-pair-programming/</link>
+ <description></description>
+ </item>
+<item>
+ <title>The Day AppGet Died (2020) (keivan.io)</title>
+ <link>https://keivan.io/the-day-appget-died/</link>
+ <description></description>
+ </item>
+<item>
+ <title>AI Overcomes Stumbling Block on Brain-Inspired Hardware (www.quantamagazine.org)</title>
+ <link>https://www.quantamagazine.org/ai-overcomes-stumbling-block-on-brain-inspired-hardware-20220217/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Plants under anesthesia reveal surprising parallels with humans (phys.org)</title>
+ <link>https://phys.org/news/2022-02-anesthesia-reveal-parallels-humans.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Privatising the moon may sound like a crazy idea but the sky’s no limit for avarice | Arwa Mahdawi (www.theguardian.com)</title>
+ <link>https://www.theguardian.com/science/2022/feb/17/privatising-moon-economists-advocate</link>
+ <description></description>
+ </item>
+<item>
+ <title>Relocate, Part II (www.reddit.com)</title>
+ <link>https://blog0.steelcandy.org/2022-02-16-relocation-additional.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Node.js image recognition model written in JavaScript (github.com)</title>
+ <link>https://github.com/ntedgi/node-efficientnet</link>
+ <description></description>
+ </item>
+<item>
+ <title>I opened SSH port 22 on my network, logged the login attempts over about 3 months, and geolocated the IPs. Here are the approximate locations of the ~1100 IPs that tried to brute force their way in! (imgur.com)</title>
+ <link>https://imgur.com/a/5PU3WpA</link>
+ <description></description>
+ </item>
+<item>
+ <title>Fullmoon – Redbean-based Lua web framework deployed as single file (github.com)</title>
+ <link>https://github.com/pkulchenko/fullmoon</link>
+ <description></description>
+ </item>
+<item>
+ <title>LXC vs. Docker: Which Container Platform Is Right for You? (earthly.dev)</title>
+ <link>https://earthly.dev/blog/lxc-vs-docker/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Russia expected to ditch GLONASS for Loran in Ukraine invasion (www.gpsworld.com)</title>
+ <link>https://www.gpsworld.com/russia-expected-to-ditch-glonass-for-loran-in-ukraine-invasion/</link>
+ <description></description>
+ </item>
+<item>
+ <title>What Is Rust%27s Hole Purpose? (blog.pnkfx.org)</title>
+ <link>http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Alarm raised after Microsoft wins data-encoding patent (www.theregister.com)</title>
+ <link>https://www.theregister.com/2022/02/17/microsoft_ans_patent/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Scientists obtain first high-resolution 3D image of muscle protein nebulin (phys.org)</title>
+ <link>https://phys.org/news/2022-02-scientists-high-resolution-3d-image-muscle.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Nixpkgs overlay to have the latest version of discord at all time (www.reddit.com)</title>
+ <link>https://www.reddit.com/r/NixOS/comments/svm500/nixpkgs_overlay_to_have_the_latest_version_of/</link>
+ <description></description>
+ </item>
+<item>
+ <title>A special compilation of curl that makes it impersonate Firefox (github.com)</title>
+ <link>https://github.com/lwthiker/curl-impersonate</link>
+ <description></description>
+ </item>
+<item>
+ <title>Fleet Below Deck, Part II – Breaking down the editor (blog.jetbrains.com)</title>
+ <link>https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Lempel Ziv Complexity | A Practical Introduction (www.youtube.com)</title>
+ <link>https://www.youtube.com/watch?v=INO1jhZ_PQY</link>
+ <description></description>
+ </item>
+<item>
+ <title>WinAPI-Fun: A collection of (relatively) harmless pranks using the Windows API (github.com)</title>
+ <link>https://github.com/adeemm/WinAPI-Fun</link>
+ <description></description>
+ </item>
+<item>
+ <title>Exploring The Space Of All Possible Programs (github.com)</title>
+ <link>https://github.com/gurgeh/CodeSpace</link>
+ <description></description>
+ </item>
+<item>
+ <title>Introducing sbomx.com - Software Bill of Materials X (sbomx.com)</title>
+ <link>https://sbomx.com/</link>
+ <description></description>
+ </item>
+<item>
+ <title>State Management in Angular Using Akita Pt 1 (auth0.com)</title>
+ <link>https://auth0.com/blog/state-management-in-angular-with-akita-1/&amp;amp;&amp;amp;</link>
+ <description></description>
+ </item>
+<item>
+ <title>System Design Concepts for Frontend Interviews (itnext.io)</title>
+ <link>https://itnext.io/system-design-concepts-that-helped-me-get-sr-frontend-offers-from-amazon-linkedin-9e100f3ce7d2?source=friends_link</link>
+ <description></description>
+ </item>
+<item>
+ <title>What is OLAP Analysis? (www.decipherzone.com)</title>
+ <link>https://www.decipherzone.com/blog-detail/olap-analysis-definition-types</link>
+ <description></description>
+ </item>
+<item>
+ <title>A hairy PostgreSQL incident (ardentperf.com)</title>
+ <link>https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Why and how to transpile dependencies of your JavaScript application (cube.dev)</title>
+ <link>https://cube.dev/blog/dependencies-transpilation/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Use these to interview recruiters (medium.com)</title>
+ <link>https://medium.com/codex/experienced-developers-ask-these-interview-questions-to-reveal-toxic-workplace-17428e6163f6</link>
+ <description></description>
+ </item>
+<item>
+ <title>The lightest i18n library for React now has a website (talkr-documentation.netlify.app)</title>
+ <link>https://talkr-documentation.netlify.app/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Client side PDF generator (dev.to)</title>
+ <link>https://dev.to/mallikarjunht/client-side-pdf-generator-2n83</link>
+ <description></description>
+ </item>
+<item>
+ <title>Resumable JavaScript with Qwik (dev.to)</title>
+ <link>https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29</link>
+ <description></description>
+ </item>
+<item>
+ <title>A piece of config that helped me compile and run programs a lot faster (www.reddit.com)</title>
+ <link>https://www.reddit.com/r/neovim/comments/svr6q5/a_piece_of_config_that_helped_me_compile_and_run/</link>
+ <description></description>
+ </item>
+<item>
+ <title>(Release) Pueue v2.0.0: %27cmd &amp;%27 on steroids (github.com)</title>
+ <link>https://github.com/Nukesor/pueue/releases/tag/v2.0.0</link>
+ <description></description>
+ </item>
+<item>
+ <title>Beware the delete (www.huy.rocks)</title>
+ <link>https://www.huy.rocks/everyday/02-18-2022-javascript-beware-the-delete</link>
+ <description></description>
+ </item>
+<item>
+ <title>Latest and greatest stack to run a selfhosted domain? (www.reddit.com)</title>
+ <link>https://www.reddit.com/r/selfhosted/comments/svmkm5/latest_and_greatest_stack_to_run_a_selfhosted/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Facebook Shadow Profiles (pdf) (www.cesifo.org)</title>
+ <link>https://www.cesifo.org/en/publikationen/2022/working-paper/facebook-shadow-profiles</link>
+ <description></description>
+ </item>
+<item>
+ <title>Choose Boring Technology (2015) (mcfunley.com)</title>
+ <link>https://mcfunley.com/choose-boring-technology</link>
+ <description></description>
+ </item>
+<item>
+ <title>An example of why RSS is useful and important (tech.chrishardie.com)</title>
+ <link>https://tech.chrishardie.com/2022/rss-useful-important/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Using the WWW-Authenticate HTTP header for user sessions (saucecode.bar)</title>
+ <link>https://saucecode.bar/posts/06-using-www-authenticate.html</link>
+ <description></description>
+ </item>
+<item>
+ <title>Google’s new retro-style font brings back serifs for more comfortable reading (www.theverge.com)</title>
+ <link>https://www.theverge.com/2022/2/18/22940753/google-roboto-serif-font-typeface-design-easier-reading-retro</link>
+ <description></description>
+ </item>
+<item>
+ <title>Achieving Perspective: Trailblazing Astronomer Maria Mitchell and the Poetry of the Cosmic Perspective, with David Byrne (www.themarginalian.org)</title>
+ <link>https://www.themarginalian.org/2022/02/18/achieving-perspective/</link>
+ <description></description>
+ </item>
+<item>
+ <title>How to Use Hexadecimal Ed25519 Public Keys in Node.js (keygen.sh)</title>
+ <link>https://keygen.sh/blog/how-to-use-hexadecimal-ed25519-keys-in-node/</link>
+ <description></description>
+ </item>
+<item>
+ <title>When the only tool you have is useReducer() (medium.com)</title>
+ <link>https://medium.com/@neolefty_91831/when-the-only-tool-you-have-is-usereducer-4d2099fe7033</link>
+ <description></description>
+ </item>
+<item>
+ <title>Hackers slip into Microsoft Teams chats to distribute malware (www.bleepingcomputer.com)</title>
+ <link>https://www.bleepingcomputer.com/news/security/hackers-slip-into-microsoft-teams-chats-to-distribute-malware/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Production-ready and flexible NestJS Boilerplate with Typescript 🌃, Postgres 👾, TypeORM 🥷 and Docker 🐳. (github.com)</title>
+ <link>https://github.com/joeygoksu/prime-nestjs</link>
+ <description></description>
+ </item>
+<item>
+ <title>Interstate 128 - A 128 byte visual presentation for the 1.7mhz 8-bit Atari XE/XL (1st place at Lovebyte 2022) (www.pouet.net)</title>
+ <link>https://www.pouet.net/prod.php?which=91099</link>
+ <description></description>
+ </item>
+<item>
+ <title>Spectrum of Reproducibility (matt-rickard.com)</title>
+ <link>https://matt-rickard.com/spectrum-of-reproducibility/</link>
+ <description></description>
+ </item>
+<item>
+ <title>Rickard%27s Law of Eponymy (matt-rickard.com)</title>
+ <link>https://matt-rickard.com/rickards-law-of-eponymy/</link>
+ <description></description>
+ </item>
+<item>
+ <title>02.16.2022 - TypeScript/The unknown type (www.huy.rocks)</title>
+ <link>https://www.huy.rocks/everyday/02-16-2022-typescript-the-unknown-type</link>
+ <description></description>
+ </item>
+<item>
+ <title>01.21.2022 - Math/Count number of digits with Logarithm (www.huy.rocks)</title>
+ <link>https://www.huy.rocks/everyday/01-21-2022-math-count-number-of-digits-with-logarithm</link>
+ <description></description>
+ </item>
+</channel>
+</rss>
