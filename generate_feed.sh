@@ -8,13 +8,15 @@ FEED_URL="https://raw.githubusercontent.com/gitkeep/bookmarks/master/feed.xml"
 FEED_SRC=README.org
 
 function write_header() {
+	BUILD_DATE=$(date -R)
 	cat <<-END
-		<?xml version="1.0" encoding="utf-8" ?>
+		<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 		 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 		 <channel>
 		 <title>$FEED_TITLE</title>
 		 <link>$FEED_LINK</link>
 		 <atom:link href="$FEED_URL" rel="self" type="application/rss+xml" />
+		 <lastBuildDate>$BUILD_DATE</lastBuildDate>
 		 <description></description>
 		 <language>en-us</language>
 	END
@@ -28,11 +30,13 @@ function write_footer() {
 }
 
 function write_item() {
+	# TODO: pubDate
 	cat <<-END
 		<item>
-		 <title>$1</title>
-		 <link>$2</link>
-		 <description></description>
+		 <title><![CDATA[$1]]></title>
+		 <link><![CDATA[$2]]></link>
+		 <guid><![CDATA[$2]]></guid>
+		 <description><![CDATA[]]></description>
 		 </item>
 	END
 }
@@ -46,7 +50,6 @@ function write_items() {
 	done <<<"$source"
 }
 
-# write footer
 write_header
 write_items
 write_footer
