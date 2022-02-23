@@ -4,7 +4,7 @@
  <title>gitkeep/bookmarks</title>
  <link>https://github.com/gitkeep/bookmarks</link>
  <atom:link href="https://raw.githubusercontent.com/gitkeep/bookmarks/master/feed.xml" rel="self" type="application/rss+xml" />
- <lastBuildDate>Tue, 22 Feb 2022 17:42:30 +0200</lastBuildDate>
+ <lastBuildDate>Wed, 23 Feb 2022 19:52:31 +0200</lastBuildDate>
  <description></description>
  <language>en-us</language>
 <item>
@@ -3575,6 +3575,504 @@
  <title><![CDATA[How We Open Sourced An ESLint Plugin for Localization at OkCupid  (tech.okcupid.com)]]></title>
  <link><![CDATA[https://tech.okcupid.com/how-we-open-sourced-an-eslint-plugin-for-internationalization-at-okcupid-20f261a4634d]]></link>
  <guid><![CDATA[https://tech.okcupid.com/how-we-open-sourced-an-eslint-plugin-for-internationalization-at-okcupid-20f261a4634d]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Show HN: Constructor – simple issue tracking for small teams, inspired by Trello  (constructor.dev)]]></title>
+ <link><![CDATA[https://constructor.dev/]]></link>
+ <guid><![CDATA[https://constructor.dev/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Romania prepared to accept 500K Ukrainian refugees, official says  (thehill.com)]]></title>
+ <link><![CDATA[https://thehill.com/policy/international/595314-romania-prepared-to-accept-500k-ukrainian-refugees-official-says]]></link>
+ <guid><![CDATA[https://thehill.com/policy/international/595314-romania-prepared-to-accept-500k-ukrainian-refugees-official-says]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[European Union nations unanimously approve Russian sanctions  (apnews.com)]]></title>
+ <link><![CDATA[https://apnews.com/article/russia-ukraine-business-asia-europe-united-nations-881717d75ad21662562dec7b5c8f43b0]]></link>
+ <guid><![CDATA[https://apnews.com/article/russia-ukraine-business-asia-europe-united-nations-881717d75ad21662562dec7b5c8f43b0]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[EU sanctions 351 Russian lawmakers who voted to recognise Donbas  (www.euronews.com)]]></title>
+ <link><![CDATA[https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics]]></link>
+ <guid><![CDATA[https://www.euronews.com/my-europe/2022/02/22/eu-sanctions-351-russian-lawmakers-who-voted-to-recognise-ukraine-s-separatist-republics]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Ukraine crisis: Russia approves use of armed forces abroad as NATO warns %27full-scale attack%27 is being planned  (news.sky.com)]]></title>
+ <link><![CDATA[https://news.sky.com/story/ukraine-crisis-putin-asks-legislators-for-permission-to-use-armed-forces-outside-russia-12548832]]></link>
+ <guid><![CDATA[https://news.sky.com/story/ukraine-crisis-putin-asks-legislators-for-permission-to-use-armed-forces-outside-russia-12548832]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[In Praise of Writing (2021)  (advait.live)]]></title>
+ <link><![CDATA[https://advait.live/praise-of-writing/]]></link>
+ <guid><![CDATA[https://advait.live/praise-of-writing/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Everything you need to know about monorepos  (monorepo.tools)]]></title>
+ <link><![CDATA[https://monorepo.tools/]]></link>
+ <guid><![CDATA[https://monorepo.tools/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Wordle is pretty damn smart in many subtle ways  (vaghetti.dev)]]></title>
+ <link><![CDATA[https://vaghetti.dev/posts/wordle/]]></link>
+ <guid><![CDATA[https://vaghetti.dev/posts/wordle/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Avoiding the top Nginx configuration mistakes  (www.nginx.com)]]></title>
+ <link><![CDATA[https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/]]></link>
+ <guid><![CDATA[https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[N64 WASM  (github.com)]]></title>
+ <link><![CDATA[https://github.com/nbarkhina/N64Wasm]]></link>
+ <guid><![CDATA[https://github.com/nbarkhina/N64Wasm]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Optimizing Postgres text search with trigrams  (alexklibisz.com)]]></title>
+ <link><![CDATA[https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html]]></link>
+ <guid><![CDATA[https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Show HN: I made a tool to create product tutorials  (textframe.app)]]></title>
+ <link><![CDATA[https://textframe.app/]]></link>
+ <guid><![CDATA[https://textframe.app/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Detecting Monero Miners with Bpftrace  (blog.px.dev)]]></title>
+ <link><![CDATA[https://blog.px.dev/detect-monero-miners/]]></link>
+ <guid><![CDATA[https://blog.px.dev/detect-monero-miners/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Energy and Human Ambitions on a Finite Planet  (escholarship.org)]]></title>
+ <link><![CDATA[https://escholarship.org/uc/item/9js5291m]]></link>
+ <guid><![CDATA[https://escholarship.org/uc/item/9js5291m]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Methodology of Window Management  (www.chilton-computing.org.uk)]]></title>
+ <link><![CDATA[http://www.chilton-computing.org.uk/inf/literature/books/wm/contents.htm]]></link>
+ <guid><![CDATA[http://www.chilton-computing.org.uk/inf/literature/books/wm/contents.htm]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Podman 4.0  (podman.io)]]></title>
+ <link><![CDATA[https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html]]></link>
+ <guid><![CDATA[https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Things you notice when you quit the news (2016)  (www.raptitude.com)]]></title>
+ <link><![CDATA[https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/]]></link>
+ <guid><![CDATA[https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Bicycle Recommendations  (www.lincolnquirk.com)]]></title>
+ <link><![CDATA[https://www.lincolnquirk.com/2021/04/10/bikes.html]]></link>
+ <guid><![CDATA[https://www.lincolnquirk.com/2021/04/10/bikes.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Life at Low Reynolds Number (1976) (pdf)  (science.curie.fr)]]></title>
+ <link><![CDATA[https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf]]></link>
+ <guid><![CDATA[https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[How USB Came to Be  (spectrum.ieee.org)]]></title>
+ <link><![CDATA[https://spectrum.ieee.org/how-usb-came-to-be]]></link>
+ <guid><![CDATA[https://spectrum.ieee.org/how-usb-came-to-be]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Google leaves TODO message at the top of basic HTML homepage  (news.ycombinator.com)]]></title>
+ <link><![CDATA[https://news.ycombinator.com/item?id=30436450]]></link>
+ <guid><![CDATA[https://news.ycombinator.com/item?id=30436450]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[GitBOM  (gitbom.dev)]]></title>
+ <link><![CDATA[https://gitbom.dev/]]></link>
+ <guid><![CDATA[https://gitbom.dev/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Moral injury can occur in many contexts and populations, including the workplace  (hbr.org)]]></title>
+ <link><![CDATA[https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises]]></link>
+ <guid><![CDATA[https://hbr.org/2022/02/employees-are-sick-of-being-asked-to-make-moral-compromises]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Bitwarden Encrypts Your Data  (www.huy.rocks)]]></title>
+ <link><![CDATA[https://www.huy.rocks/everyday/02-22-2022-security-how-bitwarden-encrypts-your-data]]></link>
+ <guid><![CDATA[https://www.huy.rocks/everyday/02-22-2022-security-how-bitwarden-encrypts-your-data]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Tech Companies Face a Fresh Crisis: Hiring  (www.nytimes.com)]]></title>
+ <link><![CDATA[https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html]]></link>
+ <guid><![CDATA[https://www.nytimes.com/2022/02/16/magazine/tech-company-recruiters.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Austrian Programmer and Ex Crypto CEO Likely Stole $11B of Ether  (www.forbes.com)]]></title>
+ <link><![CDATA[https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/]]></link>
+ <guid><![CDATA[https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Infinity in Calcium and Fungrim  (fredrikj.net)]]></title>
+ <link><![CDATA[https://fredrikj.net/blog/2021/01/infinity-in-calcium-and-fungrim/]]></link>
+ <guid><![CDATA[https://fredrikj.net/blog/2021/01/infinity-in-calcium-and-fungrim/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[The Mathematical Functions Grimoire]]></title>
+ <link><![CDATA[https://fungrim.org/]]></link>
+ <guid><![CDATA[https://fungrim.org/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Exploring X11 windows and devices and emulating mouse movements and keystrokes  (relational-pipes.globalcode.info)]]></title>
+ <link><![CDATA[https://relational-pipes.globalcode.info/v_0/examples-x11-basics.xhtml]]></link>
+ <guid><![CDATA[https://relational-pipes.globalcode.info/v_0/examples-x11-basics.xhtml]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Wipe your terminal clean  (github.com)]]></title>
+ <link><![CDATA[https://github.com/JeanJouliaCode/wipeClean]]></link>
+ <guid><![CDATA[https://github.com/JeanJouliaCode/wipeClean]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Devious phishing method bypasses MFA using remote access software  (www.bleepingcomputer.com)]]></title>
+ <link><![CDATA[https://www.bleepingcomputer.com/news/security/devious-phishing-method-bypasses-mfa-using-remote-access-software/]]></link>
+ <guid><![CDATA[https://www.bleepingcomputer.com/news/security/devious-phishing-method-bypasses-mfa-using-remote-access-software/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[tmp.0ut - issue #2  (tmpout.sh)]]></title>
+ <link><![CDATA[https://tmpout.sh/2/]]></link>
+ <guid><![CDATA[https://tmpout.sh/2/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Himalaya, the CLI email client: v0.5.6 released (PGP and Maildir support)  (github.com)]]></title>
+ <link><![CDATA[https://github.com/soywod/himalaya]]></link>
+ <guid><![CDATA[https://github.com/soywod/himalaya]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Plex on NixOS  (arne.me)]]></title>
+ <link><![CDATA[https://arne.me/blog/plex-on-nixos/]]></link>
+ <guid><![CDATA[https://arne.me/blog/plex-on-nixos/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[As Axie Infinity fades, game guilds hunt for new targets  (restofworld.org)]]></title>
+ <link><![CDATA[https://restofworld.org/2022/axie-infinity-nft-game-guilds/]]></link>
+ <guid><![CDATA[https://restofworld.org/2022/axie-infinity-nft-game-guilds/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[This Is Putin’s War  (www.theatlantic.com)]]></title>
+ <link><![CDATA[https://www.theatlantic.com/ideas/archive/2022/02/putin-russia-invasion-ukraine-war/621182/]]></link>
+ <guid><![CDATA[https://www.theatlantic.com/ideas/archive/2022/02/putin-russia-invasion-ukraine-war/621182/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Paul Farmer Invented a New Way of Caring for One Another  (www.theatlantic.com)]]></title>
+ <link><![CDATA[https://www.theatlantic.com/health/archive/2022/02/paul-farmer-global-health/622881/]]></link>
+ <guid><![CDATA[https://www.theatlantic.com/health/archive/2022/02/paul-farmer-global-health/622881/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[The Russian Incursion No One Is Talking About  (www.theatlantic.com)]]></title>
+ <link><![CDATA[https://www.theatlantic.com/international/archive/2022/02/russia-creeping-annexation-belarus/622878/]]></link>
+ <guid><![CDATA[https://www.theatlantic.com/international/archive/2022/02/russia-creeping-annexation-belarus/622878/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Ukraine crisis: sanctions against Russia come at a cost to the west  (www.theguardian.com)]]></title>
+ <link><![CDATA[https://www.theguardian.com/world/2022/feb/22/ukraine-crisis-sanctions-against-russia-come-at-a-cost-to-the-west]]></link>
+ <guid><![CDATA[https://www.theguardian.com/world/2022/feb/22/ukraine-crisis-sanctions-against-russia-come-at-a-cost-to-the-west]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Earth-like planet, neutrino’s mysterious mass and disease eradication  (www.nature.com)]]></title>
+ <link><![CDATA[https://www.nature.com/articles/d41586-022-00494-9?error=cookies_not_supported&amp;code=d1ca0956-531e-43e3-bc84-0d5a0a6de7b1]]></link>
+ <guid><![CDATA[https://www.nature.com/articles/d41586-022-00494-9?error=cookies_not_supported&amp;code=d1ca0956-531e-43e3-bc84-0d5a0a6de7b1]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Hidden black hole, COVID reinfections — the week in infographics  (www.nature.com)]]></title>
+ <link><![CDATA[https://www.nature.com/articles/d41586-022-00520-w?error=cookies_not_supported&amp;code=b513fe68-d629-4d6a-914d-9fb80c526139]]></link>
+ <guid><![CDATA[https://www.nature.com/articles/d41586-022-00520-w?error=cookies_not_supported&amp;code=b513fe68-d629-4d6a-914d-9fb80c526139]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[%27Tatooine-like%27 exoplanet spotted by ground-based telescope  (phys.org)]]></title>
+ <link><![CDATA[https://phys.org/news/2022-02-tatooine-like-exoplanet-ground-based-telescope.html]]></link>
+ <guid><![CDATA[https://phys.org/news/2022-02-tatooine-like-exoplanet-ground-based-telescope.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Rats can estimate their timing accuracy  (phys.org)]]></title>
+ <link><![CDATA[https://phys.org/news/2022-02-rats-accuracy.html]]></link>
+ <guid><![CDATA[https://phys.org/news/2022-02-rats-accuracy.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Galaxy collision creates %27space triangle%27 in new Hubble image  (phys.org)]]></title>
+ <link><![CDATA[https://phys.org/news/2022-02-galaxy-collision-space-triangle-hubble.html]]></link>
+ <guid><![CDATA[https://phys.org/news/2022-02-galaxy-collision-space-triangle-hubble.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[New research suggests way to turn SARS-CoV-2 against itself  (phys.org)]]></title>
+ <link><![CDATA[https://phys.org/news/2022-02-sars-cov-.html]]></link>
+ <guid><![CDATA[https://phys.org/news/2022-02-sars-cov-.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Ticks survive for 27 years in entomologist%27s lab  (phys.org)]]></title>
+ <link><![CDATA[https://phys.org/news/2022-02-survive-years-entomologist-lab.html]]></link>
+ <guid><![CDATA[https://phys.org/news/2022-02-survive-years-entomologist-lab.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[AI Overcomes Stumbling Block on Brain-Inspired Hardware  (nautil.us)]]></title>
+ <link><![CDATA[https://nautil.us/ai-overcomes-stumbling-block-on-brain-inspired-hardware-14093/]]></link>
+ <guid><![CDATA[https://nautil.us/ai-overcomes-stumbling-block-on-brain-inspired-hardware-14093/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Daft Punk streamed a 1997 concert on Twitch, and it may have been your only chance to see it  (www.theverge.com)]]></title>
+ <link><![CDATA[https://www.theverge.com/2022/2/22/22946483/daft-punk-streaming-old-concert-twitch-homework-reissue]]></link>
+ <guid><![CDATA[https://www.theverge.com/2022/2/22/22946483/daft-punk-streaming-old-concert-twitch-homework-reissue]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[The battle to %27win Ethereum%27 is on  (www.protocol.com)]]></title>
+ <link><![CDATA[https://www.protocol.com/fintech/layer-2-ethereum-optimistic-zk]]></link>
+ <guid><![CDATA[https://www.protocol.com/fintech/layer-2-ethereum-optimistic-zk]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Home sperm-testing kits and fertility trackers: The hottest new employee benefit  (www.protocol.com)]]></title>
+ <link><![CDATA[https://www.protocol.com/workplace/ava-legacy-fertility-benefits-startups]]></link>
+ <guid><![CDATA[https://www.protocol.com/workplace/ava-legacy-fertility-benefits-startups]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Netflix adds its first major interactive title since launching games  (www.protocol.com)]]></title>
+ <link><![CDATA[https://www.protocol.com/entertainment/netflix-cat-burglar-interactive-games]]></link>
+ <guid><![CDATA[https://www.protocol.com/entertainment/netflix-cat-burglar-interactive-games]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Fearing crypto and China, the US hesitates to pull Russia’s SWIFT access  (www.protocol.com)]]></title>
+ <link><![CDATA[https://www.protocol.com/policy/russia-swift-sanctions-ukraine]]></link>
+ <guid><![CDATA[https://www.protocol.com/policy/russia-swift-sanctions-ukraine]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Microparticles show ability to turn in reverse, paving the way for microfluidic devices  (phys.org)]]></title>
+ <link><![CDATA[https://phys.org/news/2022-02-microparticles-ability-reverse-paving-microfluidic.html]]></link>
+ <guid><![CDATA[https://phys.org/news/2022-02-microparticles-ability-reverse-paving-microfluidic.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[On self-modifying executables in Go  (muscar.eu)]]></title>
+ <link><![CDATA[https://muscar.eu/self-modify.html]]></link>
+ <guid><![CDATA[https://muscar.eu/self-modify.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Inside Pornhub  (www.theverge.com)]]></title>
+ <link><![CDATA[https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation]]></link>
+ <guid><![CDATA[https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[How the West Can Stop Putin  (time.com)]]></title>
+ <link><![CDATA[https://time.com/6150300/vladimir-putin-russia-ukraine-stop/]]></link>
+ <guid><![CDATA[https://time.com/6150300/vladimir-putin-russia-ukraine-stop/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Joe Biden Announces Sanctions Against Russian Oligarchs and Banks  (time.com)]]></title>
+ <link><![CDATA[https://time.com/6150204/biden-russia-sanctions-ukraine/]]></link>
+ <guid><![CDATA[https://time.com/6150204/biden-russia-sanctions-ukraine/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Who gets to decide if an AI is alive?  (thenextweb.com)]]></title>
+ <link><![CDATA[https://thenextweb.com/news/who-gets-decide-if-ai-is-alive]]></link>
+ <guid><![CDATA[https://thenextweb.com/news/who-gets-decide-if-ai-is-alive]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[How I Shaved 187MB Off United Airline%27s 439mb iOS App  (telkins.dev)]]></title>
+ <link><![CDATA[https://telkins.dev/posts/how-i-shaved-187mb-off-uniteds-airlines-439mb-ios-app/]]></link>
+ <guid><![CDATA[https://telkins.dev/posts/how-i-shaved-187mb-off-uniteds-airlines-439mb-ios-app/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Radio Garden  (radio.garden)]]></title>
+ <link><![CDATA[http://radio.garden/]]></link>
+ <guid><![CDATA[http://radio.garden/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[What makes writing more readable?  (pudding.cool)]]></title>
+ <link><![CDATA[https://pudding.cool/2022/02/plain/]]></link>
+ <guid><![CDATA[https://pudding.cool/2022/02/plain/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Wuhan lab leak theory ‘accepted as likely behind closed doors at No 10’]]></title>
+ <link><![CDATA[https://www.telegraph.co.uk/news/2022/02/22/wuhan-lab-leak-believed-behind-closed-doors-likeliest-origin/]]></link>
+ <guid><![CDATA[https://www.telegraph.co.uk/news/2022/02/22/wuhan-lab-leak-believed-behind-closed-doors-likeliest-origin/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Global warming is real. It is also – so far – mostly beneficial  (www.mattridley.co.uk)]]></title>
+ <link><![CDATA[https://www.mattridley.co.uk/10786]]></link>
+ <guid><![CDATA[https://www.mattridley.co.uk/10786]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[The Meme Leak Theory  (www.drorpoleg.com)]]></title>
+ <link><![CDATA[https://www.drorpoleg.com/chinas-war-on-memes/]]></link>
+ <guid><![CDATA[https://www.drorpoleg.com/chinas-war-on-memes/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[How Much Will the West Sacrifice for Ukraine?  (www.theatlantic.com)]]></title>
+ <link><![CDATA[https://www.theatlantic.com/international/archive/2022/02/ukraine-russia-west-test/622889/]]></link>
+ <guid><![CDATA[https://www.theatlantic.com/international/archive/2022/02/ukraine-russia-west-test/622889/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Embracing Imposter Syndrome  (www.justindfuller.com)]]></title>
+ <link><![CDATA[https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/]]></link>
+ <guid><![CDATA[https://www.justindfuller.com/2022/02/embracing-impostor-syndrome/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[A Gentle Introduction to Vector Databases  (frankzliu.com)]]></title>
+ <link><![CDATA[https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html]]></link>
+ <guid><![CDATA[https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Fossil fish reveal timing of asteroid that killed the dinosaurs  (www.nature.com)]]></title>
+ <link><![CDATA[https://www.nature.com/articles/d41586-022-00511-x?error=cookies_not_supported&amp;code=1a6ccd73-7b63-4cae-ada3-cf4f1afba3f6]]></link>
+ <guid><![CDATA[https://www.nature.com/articles/d41586-022-00511-x?error=cookies_not_supported&amp;code=1a6ccd73-7b63-4cae-ada3-cf4f1afba3f6]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Venus flytrap snaps shut at synthetic neuron’s command  (www.nature.com)]]></title>
+ <link><![CDATA[https://www.nature.com/articles/d41586-022-00491-y?error=cookies_not_supported&amp;code=3efeb359-34c3-4399-8dd5-f09448b0c441]]></link>
+ <guid><![CDATA[https://www.nature.com/articles/d41586-022-00491-y?error=cookies_not_supported&amp;code=3efeb359-34c3-4399-8dd5-f09448b0c441]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Exploring the mysterious source of fast radio bursts  (phys.org)]]></title>
+ <link><![CDATA[https://phys.org/news/2022-02-exploring-mysterious-source-fast-radio.html]]></link>
+ <guid><![CDATA[https://phys.org/news/2022-02-exploring-mysterious-source-fast-radio.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[From Super Pumped to Inventing Anna, Docudramas Are Taking Over TV. Here’s Why That’s Worrisome  (time.com)]]></title>
+ <link><![CDATA[https://time.com/6149027/super-pumped-inventing-anna-docudramas/]]></link>
+ <guid><![CDATA[https://time.com/6149027/super-pumped-inventing-anna-docudramas/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Europe Braces for Further Strife as Ukraine Prepares to Declare State of Emergency  (time.com)]]></title>
+ <link><![CDATA[https://time.com/6150365/ukraine-state-of-emergency-europe/]]></link>
+ <guid><![CDATA[https://time.com/6150365/ukraine-state-of-emergency-europe/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[2 photons separated by 14mi in cerns large hadron colder, stimulated just 1 & instantly the second reacted identically even tho no medium to communicate known.  (www.nytimes.com)]]></title>
+ <link><![CDATA[https://www.nytimes.com/1997/07/22/science/far-apart-2-particles-respond-faster-than-light.html]]></link>
+ <guid><![CDATA[https://www.nytimes.com/1997/07/22/science/far-apart-2-particles-respond-faster-than-light.html]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[New project creates digital clones of human brains to help treat neurological disorders  (screenshot-media.com)]]></title>
+ <link><![CDATA[https://screenshot-media.com/the-future/science/neurotwin-brain-clone/]]></link>
+ <guid><![CDATA[https://screenshot-media.com/the-future/science/neurotwin-brain-clone/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[TezVim - Very tez (i.e. fast) and highly customizable Neovim config.  (www.reddit.com)]]></title>
+ <link><![CDATA[https://www.reddit.com/r/neovim/comments/syzw7s/tezvim_very_tez_ie_fast_and_highly_customizable/]]></link>
+ <guid><![CDATA[https://www.reddit.com/r/neovim/comments/syzw7s/tezvim_very_tez_ie_fast_and_highly_customizable/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Stopping mouse-1 from opening ((url))-type links in Org mode  (www.reddit.com)]]></title>
+ <link><![CDATA[https://www.reddit.com/r/emacs/comments/szcvhk/stopping_mouse1_from_opening_urltype_links_in_org/]]></link>
+ <guid><![CDATA[https://www.reddit.com/r/emacs/comments/szcvhk/stopping_mouse1_from_opening_urltype_links_in_org/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[A collection of random shell scripts  (github.com)]]></title>
+ <link><![CDATA[https://github.com/aselvan/scripts]]></link>
+ <guid><![CDATA[https://github.com/aselvan/scripts]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Don’t underestimate Recursion: it’s far more powerful, than most people think  (itnext.io)]]></title>
+ <link><![CDATA[https://itnext.io/dont-underestimate-recursion-it-s-far-more-powerful-than-most-people-think-130a1077f3a6?source=friends_link]]></link>
+ <guid><![CDATA[https://itnext.io/dont-underestimate-recursion-it-s-far-more-powerful-than-most-people-think-130a1077f3a6?source=friends_link]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Dealing with Smart Contracts Exploits as a Crypto Developer, costs and processes of Audits  (www.youtube.com)]]></title>
+ <link><![CDATA[https://www.youtube.com/watch?v=rgPjO1hGswQ]]></link>
+ <guid><![CDATA[https://www.youtube.com/watch?v=rgPjO1hGswQ]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Architecture Patterns: Caching (Part-1)  (kislayverma.com)]]></title>
+ <link><![CDATA[https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/]]></link>
+ <guid><![CDATA[https://kislayverma.com/software-architecture/architecture-patterns-caching-part-1/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[A small debugging guide  (www.reddit.com)]]></title>
+ <link><![CDATA[https://www.reddit.com/r/computerscience/comments/sz8ee9/a_small_debugging_guide/&amp;amp;]]></link>
+ <guid><![CDATA[https://www.reddit.com/r/computerscience/comments/sz8ee9/a_small_debugging_guide/&amp;amp;]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Check your borg backup!  (www.reddit.com)]]></title>
+ <link><![CDATA[https://www.reddit.com/r/linux/comments/szl6vj/check_your_borg_backup/]]></link>
+ <guid><![CDATA[https://www.reddit.com/r/linux/comments/szl6vj/check_your_borg_backup/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Terminals Are Weird  (catern.com)]]></title>
+ <link><![CDATA[https://catern.com/posts/terminal_quirks.html]]></link>
+ <guid><![CDATA[https://catern.com/posts/terminal_quirks.html]]></guid>
  <description><![CDATA[]]></description>
  </item>
 </channel>
