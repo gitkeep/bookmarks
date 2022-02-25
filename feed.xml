@@ -4,7 +4,7 @@
  <title>gitkeep/bookmarks</title>
  <link>https://github.com/gitkeep/bookmarks</link>
  <atom:link href="https://raw.githubusercontent.com/gitkeep/bookmarks/master/feed.xml" rel="self" type="application/rss+xml" />
- <lastBuildDate>Thu, 24 Feb 2022 13:41:49 +0200</lastBuildDate>
+ <lastBuildDate>Fri, 25 Feb 2022 13:35:59 +0200</lastBuildDate>
  <description></description>
  <language>en-us</language>
 <item>
@@ -4307,6 +4307,66 @@
  <title><![CDATA[Shampoos.  (rusingh.com)]]></title>
  <link><![CDATA[https://rusingh.com/shampoos/]]></link>
  <guid><![CDATA[https://rusingh.com/shampoos/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[SARS-CoV-2 contains part of a patented genetic sequence  (www.frontiersin.org)]]></title>
+ <link><![CDATA[https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full]]></link>
+ <guid><![CDATA[https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Chinese News Outlet Accidentally Posts Ukraine Coverage Instructions - ""In the future, China will also need Russia%27s understanding and support when wrestling with America to solve the Taiwan issue once and for all."  (www.businessinsider.com)]]></title>
+ <link><![CDATA[https://www.businessinsider.com/china-news-outlet-ukraine-coverage-instructions-weibo-horizon-russia-2022-2?r=US&amp;amp;IR=T]]></link>
+ <guid><![CDATA[https://www.businessinsider.com/china-news-outlet-ukraine-coverage-instructions-weibo-horizon-russia-2022-2?r=US&amp;amp;IR=T]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[The Best JavaScript Interview Question I’ve Ever Come Across  (javascript.plainenglish.io)]]></title>
+ <link><![CDATA[https://javascript.plainenglish.io/the-best-javascript-question-for-an-interview-f24435471d9c]]></link>
+ <guid><![CDATA[https://javascript.plainenglish.io/the-best-javascript-question-for-an-interview-f24435471d9c]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Why is the EventLoop for Browsers and Node.js Designed This Way?  (blog.bitsrc.io)]]></title>
+ <link><![CDATA[https://blog.bitsrc.io/why-is-the-eventloop-for-browsers-and-node-js-designed-this-way-f7f794696c]]></link>
+ <guid><![CDATA[https://blog.bitsrc.io/why-is-the-eventloop-for-browsers-and-node-js-designed-this-way-f7f794696c]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[GitMan - A simple yet powerful opinionated tool for managing GitHub repositories. (With VSCode extension)  (github.com)]]></title>
+ <link><![CDATA[https://github.com/fabiospampinato/gitman]]></link>
+ <guid><![CDATA[https://github.com/fabiospampinato/gitman]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Maat: Symbolic execution made easy  (blog.trailofbits.com)]]></title>
+ <link><![CDATA[https://blog.trailofbits.com/2022/02/23/maat-symbolic-execution-made-easy/]]></link>
+ <guid><![CDATA[https://blog.trailofbits.com/2022/02/23/maat-symbolic-execution-made-easy/]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Writing logic in CSS]]></title>
+ <link><![CDATA[https://dev.to/iamschulz/writing-logic-in-css-3ig0]]></link>
+ <guid><![CDATA[https://dev.to/iamschulz/writing-logic-in-css-3ig0]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Patreon blocks Ukrainian volunteers charity account  (twitter.com)]]></title>
+ <link><![CDATA[https://twitter.com/Patreon/status/1497068371120390144]]></link>
+ <guid><![CDATA[https://twitter.com/Patreon/status/1497068371120390144]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[We%27re choosing Rust, and not Go, C++, or Node.js  (symless.com)]]></title>
+ <link><![CDATA[https://symless.com/blog/we-are-choosing-rust-and-heres-why]]></link>
+ <guid><![CDATA[https://symless.com/blog/we-are-choosing-rust-and-heres-why]]></guid>
+ <description><![CDATA[]]></description>
+ </item>
+<item>
+ <title><![CDATA[Show HN: Terminal Based Wikipedia  (github.com)]]></title>
+ <link><![CDATA[https://github.com/yashsinghcodes/fetch]]></link>
+ <guid><![CDATA[https://github.com/yashsinghcodes/fetch]]></guid>
  <description><![CDATA[]]></description>
  </item>
 </channel>
